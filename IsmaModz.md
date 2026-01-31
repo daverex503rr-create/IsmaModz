@@ -84,7 +84,7 @@
   </div>
 
   <footer>
-    © 2026 - Mods GTA SA Android
+    © 2026 - IsmaModz
   </footer>
 
 </body>
